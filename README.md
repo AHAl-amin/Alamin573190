@@ -1,6 +1,6 @@
+# Hi there 👋, I'm Al amin Hossain
+## I am a web developer.
 ![I am a web developer.](https://i.ibb.co/vPk8Q33/DALL-E-2024-07-02-12-10-25-A-Git-Hub-banner-featuring-the-Git-Hub-Octocat-mascot-in-the-center-The-b.webp)
-### Hi there 👋, I'm Al amin Hossain
-#### I am a web developer.
 
 Hi, I'm Al amin Hossain, a passionate Junior Web Developer specializing in React and the MERN stack. I thrive on creating innovative, user-friendly web applications and am always eager to learn new technologies. Let's connect and collaborate to build something amazing together!
 
@@ -20,5 +20,4 @@ Skills: HTML/CSS/Tailwind CSS/Java script/React/Node.js/Express/MongoDB/Firebase
 ![GitHub metrics](https://metrics.lecoq.io/Alamin573190)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Alamin573190)  
-
 
