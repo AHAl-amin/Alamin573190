@@ -1,4 +1,4 @@
-![I am a web developer.](https://i.ibb.co/vPk8Q33/DALL-E-2024-07-02-12-10-25-A-Git-Hub-banner-featuring-the-Git-Hub-Octocat-mascot-in-the-center-The-b.webp)
+[![I am a web developer.](https://i.ibb.co/vPk8Q33/DALL-E-2024-07-02-12-10-25-A-Git-Hub-banner-featuring-the-Git-Hub-Octocat-mascot-in-the-center-The-b.webp)](https://i.ibb.co/ZxHpcdB/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)
 # Hi 👋, I'm Al amin Hossain
 ## I am a web developer.
 
