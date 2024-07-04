@@ -1,4 +1,5 @@
-![I am a web developer.](https://i.ibb.co/ZxHpcdB/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)
+![I am a web developer.](https://i.ibb.co/tZCFksf/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png)
+
 # Hi👋, I'm Al amin Hossain
 ## I am a web developer.
 
