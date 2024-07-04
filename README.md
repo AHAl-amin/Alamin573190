@@ -1,4 +1,4 @@
-[https://i.ibb.co/ZxHpcdB/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png](https://i.ibb.co/ZxHpcdB/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)
+[[https://i.ibb.co/ZxHpcdB/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png](https://i.ibb.co/ZxHpcdB/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)](https://i.ibb.co/ZxHpcdB/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)
 # Hi 👋, I'm Al amin Hossain
 ## I am a web developer.
 
